@@ -1,5 +1,5 @@
 # Projetos Tkinter em Python
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurluizvieira&layout=compact&icons=true&theme=synthwave)
+
 Este repositório contém uma coleção de projetos desenvolvidos utilizando Tkinter, a biblioteca padrão de GUI (Interface Gráfica de Usuário) para Python. Cada projeto está organizado em sua própria pasta e inclui uma breve descrição abaixo.
 
 ## Projetos Incluídos
